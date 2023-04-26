@@ -1,0 +1,13 @@
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\bin\Debug\kasir_lks.exe.config
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\bin\Debug\kasir_lks.exe
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\bin\Debug\kasir_lks.pdb
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\bin\Debug\kasir_lks.xml
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.vbproj.AssemblyReference.cache
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.vbproj.SuggestedBindingRedirects.cache
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Form1.resources
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.Resources.resources
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.vbproj.GenerateResource.cache
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.vbproj.CoreCompileInputs.cache
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.exe
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.xml
+C:\Code\Visual Studio 2022\kasir_lks\kasir_lks\obj\Debug\kasir_lks.pdb
